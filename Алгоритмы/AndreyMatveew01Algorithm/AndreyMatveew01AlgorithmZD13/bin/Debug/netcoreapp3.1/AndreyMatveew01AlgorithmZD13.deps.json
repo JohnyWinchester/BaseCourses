@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AndreyMatveew01AlgorithmZD13/1.0.0": {
+        "runtime": {
+          "AndreyMatveew01AlgorithmZD13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AndreyMatveew01AlgorithmZD13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

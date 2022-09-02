@@ -1,0 +1,13 @@
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.exe
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.deps.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.runtimeconfig.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.runtimeconfig.dev.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\bin\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.csprojAssemblyReference.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.AssemblyInfoInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.AssemblyInfo.cs
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew01Algorithm\AndreyMatveew01Algorithm\obj\Debug\netcoreapp3.1\AndreyMatveew01AlgorithmZD14.genruntimeconfig.cache

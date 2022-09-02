@@ -1,0 +1,9 @@
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\bin\Debug\DZ0802AndreyMatveew.exe.config
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\bin\Debug\DZ0802AndreyMatveew.exe
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\bin\Debug\DZ0802AndreyMatveew.pdb
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.csprojAssemblyReference.cache
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.Form1.resources
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.Properties.Resources.resources
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.csproj.GenerateResource.cache
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.exe
+E:\GeekBrains\C# 01\DZ08Matveew\DZ0802AndreyMatveew\obj\Debug\DZ0802AndreyMatveew.pdb

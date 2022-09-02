@@ -1,0 +1,13 @@
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.exe
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.deps.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.runtimeconfig.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.runtimeconfig.dev.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\bin\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.csprojAssemblyReference.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.AssemblyInfoInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.AssemblyInfo.cs
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew03Algorithm\AndreyMatveew03Algorithm02\ConsoleApp1\obj\Debug\netcoreapp3.1\AndreyMatveew03algotirhm02.genruntimeconfig.cache

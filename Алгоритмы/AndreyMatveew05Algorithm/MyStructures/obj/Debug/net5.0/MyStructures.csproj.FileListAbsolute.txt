@@ -1,0 +1,12 @@
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\bin\Debug\net5.0\MyStructures.deps.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\bin\Debug\net5.0\MyStructures.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\bin\Debug\net5.0\ref\MyStructures.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\bin\Debug\net5.0\MyStructures.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.csprojAssemblyReference.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.AssemblyInfoInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.AssemblyInfo.cs
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\ref\MyStructures.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew05Algorithm\MyStructures\obj\Debug\net5.0\MyStructures.pdb

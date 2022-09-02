@@ -1,0 +1,10 @@
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\bin\Debug\DZ0801MatveewAndrey.exe.config
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\bin\Debug\DZ0801MatveewAndrey.exe
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\bin\Debug\DZ0801MatveewAndrey.pdb
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.csprojAssemblyReference.cache
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.Properties.Resources.resources
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.csproj.GenerateResource.cache
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.exe
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.pdb
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.Menu.resources
+E:\GeekBrains\C# 01\DZ07Matveew\DZ0801MatveewAndrey\obj\Debug\DZ0801MatveewAndrey.DoublerForm.resources

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKD56ZlLMhBAPMPcoFxoyqJKHzm47YtwvAG6wHjiIICrVcJ3X9DoEe86nIHcQVycAqkgjuHjvi96Qo1Nc+dAZg==",
+  "success": true,
+  "projectFilePath": "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew06Algorithm\\AndreyMatveew06Algorithm\\AndreyMatveew06Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\hashlib\\2.0.1\\hashlib.2.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"HashLib 2.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "HashLib",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreyMatveew06Algorithm", "AndreyMatveew06Algorithm\AndreyMatveew06Algorithm.csproj", "{26FB7095-9559-45A7-B720-D73ADA1CACFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreyMatveew06Algoritm02", "AndreyMatveew06Algoritm02\AndreyMatveew06Algoritm02.csproj", "{50D53B77-821D-4D06-866F-B36D9C7A6DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FB7095-9559-45A7-B720-D73ADA1CACFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FB7095-9559-45A7-B720-D73ADA1CACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FB7095-9559-45A7-B720-D73ADA1CACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FB7095-9559-45A7-B720-D73ADA1CACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D53B77-821D-4D06-866F-B36D9C7A6DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D53B77-821D-4D06-866F-B36D9C7A6DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D53B77-821D-4D06-866F-B36D9C7A6DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D53B77-821D-4D06-866F-B36D9C7A6DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755D6E9D-9539-4370-B4E5-CCC9EC125EE7}
+	EndGlobalSection
+EndGlobal

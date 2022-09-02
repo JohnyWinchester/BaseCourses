@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MyStructures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyStructures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyStructures/1.0.0": {
+      "type": "project",
+      "path": "../MyStructures/MyStructures.csproj",
+      "msbuildProject": "../MyStructures/MyStructures.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MyStructures >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andrey\\.nuget\\packages\\": {},
+    "E:\\Visual Stuio Кэш\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew05Algorithm\\AndreyMatveew05Algorithm\\AndreyMatveew05Algorithm.csproj",
+      "projectName": "AndreyMatveew05Algorithm",
+      "projectPath": "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew05Algorithm\\AndreyMatveew05Algorithm\\AndreyMatveew05Algorithm.csproj",
+      "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+      "outputPath": "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew05Algorithm\\AndreyMatveew05Algorithm\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Visual Stuio Кэш\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew05Algorithm\\MyStructures\\MyStructures.csproj": {
+              "projectPath": "E:\\GeekBrains\\Алгоритмы\\AndreyMatveew05Algorithm\\MyStructures\\MyStructures.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

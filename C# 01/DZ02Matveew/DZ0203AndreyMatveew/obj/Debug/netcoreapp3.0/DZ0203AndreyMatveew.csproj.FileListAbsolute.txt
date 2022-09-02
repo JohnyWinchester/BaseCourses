@@ -1,0 +1,11 @@
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.exe
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.deps.json
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.runtimeconfig.json
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.runtimeconfig.dev.json
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.dll
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\bin\Debug\netcoreapp3.0\DZ0203AndreyMatveew.pdb
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\obj\Debug\netcoreapp3.0\DZ0203AndreyMatveew.csprojAssemblyReference.cache
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\obj\Debug\netcoreapp3.0\DZ0203AndreyMatveew.AssemblyInfoInputs.cache
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\obj\Debug\netcoreapp3.0\DZ0203AndreyMatveew.AssemblyInfo.cs
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\obj\Debug\netcoreapp3.0\DZ0203AndreyMatveew.dll
+E:\GeekBrains\C# 01\DZ02Matveew\DZ0203AndreyMatveew\obj\Debug\netcoreapp3.0\DZ0203AndreyMatveew.pdb

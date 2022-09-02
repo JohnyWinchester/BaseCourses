@@ -1,0 +1,7 @@
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\bin\Debug\netcoreapp3.0\MyArray.deps.json
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\bin\Debug\netcoreapp3.0\MyArray.dll
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\bin\Debug\netcoreapp3.0\MyArray.pdb
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\obj\Debug\netcoreapp3.0\MyArray.AssemblyInfoInputs.cache
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\obj\Debug\netcoreapp3.0\MyArray.AssemblyInfo.cs
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\obj\Debug\netcoreapp3.0\MyArray.dll
+E:\GeekBrains\C# 01\DZ04Matveew\MyArray\obj\Debug\netcoreapp3.0\MyArray.pdb

@@ -1,0 +1,16 @@
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.exe
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.deps.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.runtimeconfig.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.runtimeconfig.dev.json
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\ref\AndreyMatveew06Algoritm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\bin\Debug\net5.0\AndreyMatveew06Algoritm02.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.csprojAssemblyReference.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.AssemblyInfoInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.AssemblyInfo.cs
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\ref\AndreyMatveew06Algoritm02.dll
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.pdb
+E:\GeekBrains\Алгоритмы\AndreyMatveew06Algorithm\AndreyMatveew06Algoritm02\obj\Debug\net5.0\AndreyMatveew06Algoritm02.genruntimeconfig.cache

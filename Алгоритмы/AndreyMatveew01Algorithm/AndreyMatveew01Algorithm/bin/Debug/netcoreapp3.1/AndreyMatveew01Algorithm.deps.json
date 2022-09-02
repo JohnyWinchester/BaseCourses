@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AndreyMatveew01Algorithm/1.0.0": {
+        "runtime": {
+          "AndreyMatveew01Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AndreyMatveew01Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

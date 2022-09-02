@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AndreyMatveew05Algorithm/1.0.0": {
+        "dependencies": {
+          "MyStructures": "1.0.0"
+        },
+        "runtime": {
+          "AndreyMatveew05Algorithm.dll": {}
+        }
+      },
+      "MyStructures/1.0.0": {
+        "runtime": {
+          "MyStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AndreyMatveew05Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DZ03AndreyMatveew/1.0.0": {
+        "runtime": {
+          "DZ03AndreyMatveew.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ03AndreyMatveew/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

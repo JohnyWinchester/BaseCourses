@@ -1,0 +1,8 @@
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\bin\Debug\netcoreapp3.0\MyArrayMatrix.deps.json
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\bin\Debug\netcoreapp3.0\MyArrayMatrix.dll
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\bin\Debug\netcoreapp3.0\MyArrayMatrix.pdb
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\obj\Debug\netcoreapp3.0\MyArrayMatrix.csprojAssemblyReference.cache
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\obj\Debug\netcoreapp3.0\MyArrayMatrix.AssemblyInfoInputs.cache
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\obj\Debug\netcoreapp3.0\MyArrayMatrix.AssemblyInfo.cs
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\obj\Debug\netcoreapp3.0\MyArrayMatrix.dll
+E:\GeekBrains\C# 01\DZ04Matveew\MyArrayMatrix\obj\Debug\netcoreapp3.0\MyArrayMatrix.pdb

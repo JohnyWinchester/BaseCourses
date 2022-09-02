@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DZ0405AndreyMatveew/1.0.0": {
+        "dependencies": {
+          "MyArrayMatrix": "1.0.0"
+        },
+        "runtime": {
+          "DZ0405AndreyMatveew.dll": {}
+        }
+      },
+      "MyArrayMatrix/1.0.0": {
+        "runtime": {
+          "MyArrayMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ0405AndreyMatveew/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyArrayMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
